@@ -4,3 +4,6 @@
 
 # แนบไฟล์ size-components.txt ในโฟลเดอร์ส่งงาน
 <img width="1563" height="571" alt="image" src="https://github.com/user-attachments/assets/8c9f35eb-c198-4a34-b90e-0e72b1debd7e" />
+
+# แนบไฟล์ size-files.txt ในโฟลเดอร์ส่งงาน
+<img width="1637" height="756" alt="image" src="https://github.com/user-attachments/assets/b434e576-b64b-4744-9194-a0b085cb8e01" />
