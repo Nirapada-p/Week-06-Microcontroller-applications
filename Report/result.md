@@ -14,5 +14,8 @@
 
 <img width="1622" height="745" alt="image" src="https://github.com/user-attachments/assets/68bbe369-17c8-4c6c-9274-92a331c9916a" />
 
-#การ Flash และทดสอบ
+# การ Flash และทดสอบ
 <img width="1073" height="726" alt="image" src="https://github.com/user-attachments/assets/580675c7-dc72-40db-a442-b4a67d3fe115" />
+
+# บันทึกผลการ simulate ในโฟลเดอร์ส่งงาน
+<img width="885" height="832" alt="image" src="https://github.com/user-attachments/assets/f11583f8-45af-43f0-a359-9cab8f9c8657" />
