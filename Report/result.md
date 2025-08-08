@@ -13,3 +13,6 @@
 <img width="1645" height="760" alt="image" src="https://github.com/user-attachments/assets/d7fe31e6-691a-4e21-812d-d37ed8cec215" />
 
 <img width="1622" height="745" alt="image" src="https://github.com/user-attachments/assets/68bbe369-17c8-4c6c-9274-92a331c9916a" />
+
+#การ Flash และทดสอบ
+<img width="1073" height="726" alt="image" src="https://github.com/user-attachments/assets/580675c7-dc72-40db-a442-b4a67d3fe115" />
