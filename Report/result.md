@@ -7,3 +7,9 @@
 
 # แนบไฟล์ size-files.txt ในโฟลเดอร์ส่งงาน
 <img width="1637" height="756" alt="image" src="https://github.com/user-attachments/assets/b434e576-b64b-4744-9194-a0b085cb8e01" />
+
+<img width="1630" height="759" alt="image" src="https://github.com/user-attachments/assets/573f171e-ff7e-40f0-ad25-8de0544dfef3" />
+
+<img width="1645" height="760" alt="image" src="https://github.com/user-attachments/assets/d7fe31e6-691a-4e21-812d-d37ed8cec215" />
+
+<img width="1622" height="745" alt="image" src="https://github.com/user-attachments/assets/68bbe369-17c8-4c6c-9274-92a331c9916a" />
